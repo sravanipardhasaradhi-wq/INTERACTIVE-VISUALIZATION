@@ -1,0 +1,31 @@
+HR Employee Attrition Dashboard 
+
+KEY INSIGHTS
+
+1. The Research & Development department has the highest employee attrition, followed by the Sales department.
+
+2. Employees aged 26–35 contribute the largest percentage of employee exits.
+
+3. Employees who work overtime show significantly higher attrition rates than employees who do not work overtime.
+
+4. Lower job satisfaction levels are associated with increased employee turnover.
+
+5. Employees with fewer years at the company are more likely to leave the organization.
+
+6. The overall attrition rate is 16.12%, with 237 employees leaving out of 1,470 employees.
+
+BUSINESS RECOMMENDATIONS
+
+* Reduce excessive overtime and workload pressure.
+
+* Improve employee engagement initiatives.
+
+* Provide career growth and development opportunities.
+
+* Strengthen onboarding and mentorship programs.
+
+* Conduct regular employee satisfaction surveys.
+
+CONCLUSION
+
+The analysis shows that overtime, job satisfaction, department, age group, and years at the company are major factors influencing employee attrition. Addressing these areas can help organizations improve employee retention and reduce turnover.
