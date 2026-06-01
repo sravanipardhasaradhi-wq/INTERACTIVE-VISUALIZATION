@@ -156,5 +156,3 @@ The dashboard successfully identifies key factors contributing to employee attri
 
 ## AUTHOR
 Lakshmi Sravani
-
-SkillCraft Technology Internship – Task 3
