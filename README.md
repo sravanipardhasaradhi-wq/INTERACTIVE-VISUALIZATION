@@ -1,4 +1,4 @@
-# TASK 3: HR EMPLOYEE ATTRITION ANALYSIS DASHBOARD
+# TASK 3: HR EMPLOYEE ATTRITION ANALYSIS DASHBOARD (INTERACTIVE VISUALIZATION)
 
 ## PROJECT OVERVIEW
 This project focuses on analyzing employee attrition using Power BI. The objective was to build an interactive dashboard that helps organizations understand employee turnover patterns and identify the key factors influencing attrition.
