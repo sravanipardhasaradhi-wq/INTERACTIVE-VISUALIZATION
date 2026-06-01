@@ -1,56 +1,160 @@
-HR Employee Attrition Analysis Dashboard
+# TASK 3: HR EMPLOYEE ATTRITION ANALYSIS DASHBOARD
 
-PROJECT OVERVIEW
-This project presents an interactive HR Employee Attrition Dashboard built using Power BI. The objective is to analyze employee turnover patterns and identify the major factors contributing to attrition.
+## PROJECT OVERVIEW
+This project focuses on analyzing employee attrition using Power BI. The objective was to build an interactive dashboard that helps organizations understand employee turnover patterns and identify the key factors influencing attrition.
 
-The dashboard allows users to interactively filter data by:
-Department
-Age Group
-Gender
+The dashboard provides visual insights into employee demographics, work conditions, and satisfaction levels to answer the business question:
 
-and helps answer the business question:
-"Why are employees leaving the organization?"
+**"Why are employees leaving the organization?"**
 
-DASHBOARD FEATURES
-Key Performance Indicators (KPIs)
+---
+
+## OBJECTIVE
+
+* Build an interactive Power BI dashboard.
+* Analyze employee attrition trends.
+* Enable filtering by Department, Age Group, and Gender.
+* Identify major factors contributing to employee turnover.
+* Provide business recommendations to improve employee retention.
+
+---
+
+## DATASET USED
+
+### IBM HR Employee Attrition Dataset
+
+The dataset contains employee information including:
+
+* Employee ID
+* Age
+* Gender
+* Department
+* Job Role
+* Monthly Income
+* Job Satisfaction
+* Overtime Status
+* Years at Company
+* Attrition Status
+
 Total Employees: 1,470
-Employees Left: 237
-Attrition Rate: 16.12%
-Interactive Filters
-Department
-Age Group
-Gender
-Visualizations
-Employee Attrition by Department
-Employee Attrition by Age Group
-Attrition vs Job Satisfaction
-Impact of Overtime on Attrition
-Attrition by Years at Company
 
-KEY FINDINGS
-1. Research & Development Department Has Highest Attrition
-The Research & Development department records the largest number of employee exits, followed by the Sales department. Human Resources experiences the lowest attrition.
+---
 
-2. Employees Aged 26–35 Leave Most Frequently
-The age group 26–35 contributes the highest number of employee departures. This indicates that early and mid-career professionals are more likely to seek better opportunities.
+## TOOLS AND TECHNOLOGIES
 
-3. Overtime Strongly Influences Attrition
-Employees working overtime show significantly higher attrition compared to those who do not work overtime. Work-life imbalance appears to be a major contributor to employee turnover.
+* Microsoft Power BI
+* Data Cleaning and Transformation
+* DAX Measures
+* Interactive Visualizations
+* HR Analytics
 
-4. Job Satisfaction Affects Retention
-Lower job satisfaction levels are associated with increased attrition. Employees who are less satisfied with their jobs are more likely to leave the organization.
+---
 
-5. New Employees Leave More Often
-Attrition is highest among employees with fewer years at the company, suggesting onboarding, engagement, and early-career support may require improvement.
+## DASHBOARD FEATURES
 
-BUSINESS RECOMMENDATIONS
-Based on the analysis, the organization should:
-Reduce excessive overtime workloads.
-Improve employee engagement programs.
-Focus retention efforts on employees aged 26–35.
-Strengthen onboarding and mentoring for new hires.
-Conduct regular job satisfaction surveys.
-Implement career growth and development opportunities.
+### KPI Cards
 
-CONCLUSION
-The dashboard reveals that employee attrition is primarily influenced by overtime, job satisfaction, age group, and department. By addressing these factors, organizations can improve employee retention and reduce turnover costs.
+* Total Employees
+* Employees Left
+* Attrition Rate (%)
+
+### Interactive Filters
+
+* Department
+* Age Group
+* Gender
+
+### Visualizations
+
+#### Employee Attrition by Department
+
+Displays employee turnover across various departments.
+
+#### Employee Attrition by Age Group
+
+Shows attrition patterns among different age categories.
+
+#### Attrition vs Job Satisfaction
+
+Analyzes the impact of job satisfaction on employee retention.
+
+#### Overtime vs Attrition
+
+Examines whether overtime contributes to employee turnover.
+
+#### Attrition by Years at Company
+
+Shows how employee tenure affects attrition.
+
+---
+
+## KEY FINDINGS
+
+### 1. Research & Development Department Has Highest Attrition
+
+The Research & Development department records the highest employee turnover, followed by the Sales department.
+
+### 2. Employees Aged 26–35 Leave More Frequently
+
+The age group 26–35 contributes the highest percentage of employee exits.
+
+### 3. Overtime Strongly Influences Attrition
+
+Employees working overtime show significantly higher attrition rates than employees who do not work overtime.
+
+### 4. Job Satisfaction Impacts Employee Retention
+
+Lower job satisfaction levels are associated with increased employee turnover.
+
+### 5. New Employees Are More Likely to Leave
+
+Employees with fewer years at the company show higher attrition rates, indicating onboarding and engagement challenges.
+
+---
+
+## BUSINESS RECOMMENDATIONS
+
+* Reduce excessive overtime and workload pressure.
+* Improve employee engagement initiatives.
+* Enhance job satisfaction through recognition programs.
+* Provide career development and growth opportunities.
+* Strengthen onboarding and mentorship programs.
+* Conduct regular employee feedback and satisfaction surveys.
+
+---
+
+## RESULTS
+
+* Total Employees: 1,470
+* Employees Left: 237
+* Attrition Rate: 16.12%
+
+The dashboard successfully identifies key factors contributing to employee attrition and provides actionable insights for HR decision-making.
+
+---
+
+## LEARNING OUTCOMES
+
+* Power BI Dashboard Development
+* DAX Measure Creation
+* HR Data Analysis
+* Interactive Reporting
+* Business Intelligence
+* Data Visualization
+
+---
+
+## FILES INCLUDED
+
+* HR_Employee_Attrition.pbix
+* Dashboard_Screenshot.png
+* Dataset.csv
+* Insights.txt
+* README.md
+
+---
+
+## AUTHOR
+Lakshmi Sravani
+
+SkillCraft Technology Internship – Task 3
