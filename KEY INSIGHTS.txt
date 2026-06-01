@@ -1,6 +1,4 @@
-HR Employee Attrition Dashboard 
-
-KEY INSIGHTS
+HR Employee Attrition Dashboard – Key Insights
 
 1. The Research & Development department has the highest employee attrition, followed by the Sales department.
 
@@ -14,18 +12,14 @@ KEY INSIGHTS
 
 6. The overall attrition rate is 16.12%, with 237 employees leaving out of 1,470 employees.
 
-BUSINESS RECOMMENDATIONS
+Business Recommendations:
 
 * Reduce excessive overtime and workload pressure.
-
 * Improve employee engagement initiatives.
-
 * Provide career growth and development opportunities.
-
 * Strengthen onboarding and mentorship programs.
-
 * Conduct regular employee satisfaction surveys.
 
-CONCLUSION
+Conclusion:
 
 The analysis shows that overtime, job satisfaction, department, age group, and years at the company are major factors influencing employee attrition. Addressing these areas can help organizations improve employee retention and reduce turnover.
